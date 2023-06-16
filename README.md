@@ -1,2 +1,3 @@
-# cursos_hcode_javascript
-Cursos HCode - Javascript
+# Cursos HCode - Javascript
+
+Cursos completo com seis projetos reais...
