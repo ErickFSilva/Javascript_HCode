@@ -84,6 +84,6 @@ do {
     cont1++;
 } while (cont1 <= 30);
 
-// Laço de repetição: forEatch
+// Laço de repetição: forEach()
 
-// Laço de repetição: forIn
+// Laço de repetição: forIn()
