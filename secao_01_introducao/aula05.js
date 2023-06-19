@@ -79,3 +79,21 @@ familia.forEach(function(value, index) {
 
     console.log(index, value);
 });
+
+
+// - Orientação a objetos:
+let celular = function() {
+
+    this.cor = 'Prata';
+
+    this.ligar = function() {
+
+        console.log('Uma ligação');
+        return 'Ligando';
+    }
+};
+
+let objeto = new celular();
+console.log(objeto);
+console.log(objeto.cor);
+console.log(objeto.ligar());
