@@ -1,12 +1,7 @@
 /**
- * Comentário de várias linhas
+ * Comentário de bloco
  */
 
+// Comentário de linha
 
-let saudacao = 'Olá, mundo!';
-
-// Imprime no console do navegador
-console.log(saudacao);
-
-// Imprime em um pop up no navegador
-// alert(saudacao);
+console.log('Hello, word!');
